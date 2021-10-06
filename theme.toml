@@ -4,10 +4,10 @@
 name = "omn0mn0m"
 license = "MIT"
 licenselink = "https://github.com/omn0mn0m/hugo-theme-omn0mn0m/blob/master/LICENSE"
-description = "Personal theme for Hugo."
+description = "Minimalist Hugo theme with pure CSS and minimal JavaScript."
 homepage = "https://github.com/omn0mn0m/hugo-theme-omn0mn0m/"
 tags = []
-features = []
+features = ["single page", "dark theme"]
 min_version = "0.41.0"
 
 [author]
